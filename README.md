@@ -15,6 +15,8 @@ This project is a responsive photo gallery website built with HTML5, CSS3, and J
 - **Sass Preprocessing**: Modular CSS architecture using Sass
 - **Font Awesome Icons**: Professional iconography throughout the interface
 
+ 
+
 ## Project Structure
 
 ```
@@ -118,6 +120,17 @@ This photo collection documents research and logistical operations in the Canadi
 - Historical site documentation
 - Community interaction with Inuit populations
 - Equipment and supply operations in extreme conditions
+
+## Future Improvements
+
+The following enhancements are planned to improve the user experience and functionality:
+
+- **Improved Navigation Arrows**: Enhance the lightbox navigation with better visibility and smoother transitions
+- **Better Date Readability**: Redesign date formatting for improved typography and clarity
+- **JSON Content Integration**: Add structured data to provide richer context for each photograph and expedition
+- **Arctic Documentary Video**: Embed YouTube video content about Arctic expeditions and research
+- **Accessibility Testing**: Comprehensive accessibility audit and improvements for screen readers and keyboard navigation
+- **Interactive Map**: Display expedition routes and photo locations on an interactive Arctic map
 
 ## Credits
 
