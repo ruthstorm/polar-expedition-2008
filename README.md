@@ -103,6 +103,22 @@ sass --watch assets/sass:assets/css
 
 3. Make changes to the `.scss` files in the `assets/sass/` directory
 
+### Local Development Server
+
+For full functionality (especially email content loading), run a local server:
+
+```bash
+# Using npm (if you have Node.js)
+npm run serve
+
+# Or using Python
+python3 -m http.server 8000
+
+# Then visit http://localhost:8000
+```
+
+## Versioning
+
 ## Image Organization
 
 Images are organized chronologically and stored in two formats:
