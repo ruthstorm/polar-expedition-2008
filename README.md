@@ -1,10 +1,6 @@
 # Polar Exposition 2008
 
-A photo gallery website documenting a 2008 Arctic expedition, featuring stunning, albeit small, photographs sent by email from my dad when he flew a twin otter in the arctic and the Maldives in 2008.
-
-## Overview
-
-This project is a responsive photo gallery website built with HTML5, CSS3, and JavaScript that showcases a collection of Arctic expedition photos from 2008-2009. The website features a chronological layout of expedition photos with an elegant lightbox gallery interface.
+A photo gallery website documenting a 2008 Arctic expedition, featuring stunning, albeit small, photographs sent by email from my dad when he flew a twin otter in both the polar and equatorial regions within one year in 2008.
 
 ## Features
 
