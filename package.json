@@ -6,11 +6,7 @@
   "scripts": {
     "dev": "sass --watch assets/sass:assets/css",
     "build:css": "sass assets/sass:assets/css --style=compressed",
-    "serve": "python3 -m http.server 8000",
-    "serve:node": "npx http-server -p 8000 -c-1",
-    "version:patch": "npm version patch",
-    "version:minor": "npm version minor",
-    "version:major": "npm version major",
+    "serve": "npx http-server -p 8000 -c-1",
     "start": "npm run serve"
   },
   "repository": {
